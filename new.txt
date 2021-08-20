@@ -1,0 +1,5 @@
+Some text add
+
+
+Now we are learn about diff command
+we are learn about git
